@@ -1,7 +1,7 @@
 
 # AI DOJO Machine Learning Bootcamp
 
-This is the repository for The Machine Learning Bootcamp published by [AI DOJO](https://github.com/TheAIDojo). It contains all the Bootcamp code with supporting project files necessary to work through the code.
+This is the repository for The Machine Learning Bootcamp Created for [AI DOJO](https://github.com/TheAIDojo). It contains all the Bootcamp code with supporting project files necessary to work through the code.
 
 ## Requirements and Setup
 
